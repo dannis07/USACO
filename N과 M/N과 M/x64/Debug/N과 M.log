@@ -1,0 +1,9 @@
+﻿  15649.cpp
+  15651.cpp
+  코드를 생성하고 있습니다...
+15651.obj : error LNK2005: "void __cdecl dfs(int)" (?dfs@@YAXH@Z)이(가) 15649.obj에 이미 정의되어 있습니다.
+15651.obj : error LNK2005: main이(가) 15649.obj에 이미 정의되어 있습니다.
+15651.obj : error LNK2005: "int N" (?N@@3HA)이(가) 15649.obj에 이미 정의되어 있습니다.
+15651.obj : error LNK2005: "int M" (?M@@3HA)이(가) 15649.obj에 이미 정의되어 있습니다.
+15651.obj : error LNK2005: "int * arr" (?arr@@3PAHA)이(가) 15649.obj에 이미 정의되어 있습니다.
+C:\Users\User\source\repos\N과 M\x64\Debug\N과 M.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

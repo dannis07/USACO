@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e856a9ad-c633-40cf-9c2c-c5acc68e4110": {
+      "ProjectGuid": "e856a9ad-c633-40cf-9c2c-c5acc68e4110",
+      "DisplayName": "USACO_silver_DFS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

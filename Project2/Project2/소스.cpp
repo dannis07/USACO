@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+int n;
+
+int main()
+{
+	cin >> n;
+	for (int i = 1; i * i <= n; i++) {
+		int count = 0;
+
+	}
+	return 0;
+}

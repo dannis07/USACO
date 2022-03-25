@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\User\source\repos\2370\2370\소스.cpp(29,9): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\2370\2370\소스.cpp(30,9): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2370.vcxproj -> C:\Users\User\source\repos\2370\x64\Debug\2370.exe

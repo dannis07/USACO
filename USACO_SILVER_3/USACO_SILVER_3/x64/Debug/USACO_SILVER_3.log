@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\User\source\repos\USACO_SILVER_3\USACO_SILVER_3\소스.cpp(10,10): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\USACO_SILVER_3\USACO_SILVER_3\소스.cpp(10,7): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  USACO_SILVER_3.vcxproj -> C:\Users\User\source\repos\USACO_SILVER_3\x64\Debug\USACO_SILVER_3.exe
